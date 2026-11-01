@@ -9,10 +9,12 @@ ktm_url = "https://storage.data.gov.my/transportation/ktmb/komuter_2026.parquet"
 
 ets_url = "https://storage.data.gov.my/transportation/ktmb/ets_2026.parquet"
 
+# extraction
 def read_file(url):
     df=pd.read_parquet(url)
     return df
 
+# transform
 def transform(ktm_df ,ets_df):
     ktm_df = ktm_df[(ktm_df["origin"]=="Kepong Sentral") | 
                     (ktm_df["destination"]=="Kepong Sentral")]
@@ -28,12 +30,15 @@ def transform(ktm_df ,ets_df):
 
     return full_service
 
+# load to csv
 def load_to_csv(full_service):
     full_schdule = full_service.to_csv("full_ridership_kepong_sentral", index = False)
 
+# load to sql
 def load_to_db(full_service,conn,table_name):
     full_service.to_sql(table_name,conn, if_exists='replace', index=False)
 
+# run query
 def run_query(query,conn):
     print(query)
     query_output = pd.read_sql(query,conn)
