@@ -1,14 +1,25 @@
 # Kepong Sentral Station Ridership Data Pipeline
 
-This project was conducted to build a data pipeline that extracts data from data.gov.my, transforms it to include only rides that either begin or end at Kepong Sentral, and then loads the processed data into CSV files and SQLite database for further analysis.
+This project focuses on building a data pipeline to extract daily KTM ridership data from Malaysia's open data portal, [data.gov.my](https://data.gov.my/). The pipeline uses Python (Pandas) to transform and filter passenger journeys, including only records where the journey either begins or ends at Kepong Sentral station. The processed data is then loaded into CSV files and an SQLite database for further analysis.
 
-## Tools
+## Project Objectives
 
-Python(pandas), SQLite, VS Code, Git and Github
+- Extract daily KTM ridership data from data.gov.my.
+- Filter passenger journeys that either begin or end at Kepong Sentral station.
+- Transform and process the ridership data.
+- Store the processed data in CSV files and an SQLite database.
+
+
+## Tools Used
+
+- Python (Pandas)
+- SQLite
+- VS Code
+- Git and GitHub
 
 ## Monthly Ridership
 
-| Month | Passenger Count |
+| Month | Ridership |
 |---|---:|
 | January 2026 | 5,906 |
 | February 2026 | 5,315 |
@@ -23,7 +34,7 @@ Python(pandas), SQLite, VS Code, Git and Github
 
 ## Hourly Ridership
 
-| Time | Passenger Count |
+| Time | Ridership |
 |---|---:|
 | 00:00 | 145 |
 | 01:00 | 19 |
