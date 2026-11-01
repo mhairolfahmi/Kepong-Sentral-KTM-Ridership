@@ -69,13 +69,15 @@ load_to_db(full_service,conn, table_name)
 
 log_progress('Data loaded to Database as table. Running the query')
 
-log_progress('Query: show full ridership table')
+print('Query: show full ridership table')
 
 query = f"select * from {table_name}"
 
 run_query(query,conn)
 
-log_progress('Query: number of ridership by service')
+print('Query: number of ridership by service')
+
+
 
 query = f"select service, count(*) FROM {table_name} GROUP BY service"
 
