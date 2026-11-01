@@ -1,5 +1,6 @@
 import pandas as pd
 import sqlite3
+from datetime import datetime 
 
 table_name = "kepong_sentral_ridership"
 conn = sqlite3.connect('kepong_sentral_ridership.db')
@@ -38,24 +39,49 @@ def run_query(query,conn):
     query_output = pd.read_sql(query,conn)
     print(query_output)
 
+def log_progress(message): 
+    timestamp_format = '%Y-%h-%d-%H:%M:%S' # Year-Monthname-Day-Hour-Minute-Second 
+    now = datetime.now() # get current timestamp 
+    timestamp = now.strftime(timestamp_format) 
+    with open("./etl_project_log.txt","a") as f: 
+        f.write(timestamp + ' : ' + message + '\n')
+
+
+log_progress('Preliminaries complete. Initiating ETL process')
 
 ktm_df = read_file(ktm_url)
 
 ets_df = read_file(ets_url)
 
+log_progress('Data extraction complete. Initiating Transformation process')
+
 full_service = transform(ktm_df,ets_df)
+
+log_progress('Data transformation complete. Initiating loading process')
 
 load_to_csv(full_service)
 
+log_progress('Data saved to CSV file')
+
+log_progress('SQL Connection initiated.')
+
 load_to_db(full_service,conn, table_name)
+
+log_progress('Data loaded to Database as table. Running the query')
+
+log_progress('Query: show full ridership table')
 
 query = f"select * from {table_name}"
 
 run_query(query,conn)
 
+log_progress('Query: number of ridership by service')
+
 query = f"select service, count(*) FROM {table_name} GROUP BY service"
 
 run_query(query,conn)
+
+log_progress('Process Complete.')
 
 conn.close()
 
