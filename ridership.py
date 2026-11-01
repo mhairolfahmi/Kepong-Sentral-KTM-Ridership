@@ -1,4 +1,8 @@
 import pandas as pd
+import sqlite3
+
+table_name = "kepong_sentral_ridership"
+conn = sqlite3.connect('kepong_sentral_ridership.db')
 
 ktm_url = "https://storage.data.gov.my/transportation/ktmb/komuter_2026.parquet"
 
@@ -24,7 +28,15 @@ def transform(ktm_df ,ets_df):
     return full_service
 
 def load_to_csv(full_service):
-    full_schdule = full_service.to_csv("final_schedule", index = False)
+    full_schdule = full_service.to_csv("full_ridership_kepong_sentral", index = False)
+
+def load_to_db(full_service,conn,table_name):
+    full_service.to_sql(table_name,conn, if_exists='replace', index=False)
+
+def run_query(query,conn):
+    print(query)
+    query_output = pd.read_sql(query,conn)
+    print(query_output)
 
 
 ktm_df = read_file(ktm_url)
@@ -33,4 +45,22 @@ ets_df = read_file(ets_url)
 
 full_service = transform(ktm_df,ets_df)
 
-full_schedule_kepong_sentral = load_to_csv(full_service)
+load_to_csv(full_service)
+
+load_to_db(full_service,conn, table_name)
+
+query = f"select * from {table_name}"
+
+run_query(query,conn)
+
+query = f"select service, count(*) FROM {table_name} GROUP BY service"
+
+run_query(query,conn)
+
+conn.close()
+
+
+
+
+
+
