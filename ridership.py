@@ -82,8 +82,6 @@ run_query(query,conn)
 
 print('Query: number of ridership by service')
 
-
-
 query = f"select service, count(*) FROM {table_name} GROUP BY service"
 
 run_query(query,conn)
