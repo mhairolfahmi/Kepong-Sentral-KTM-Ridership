@@ -5,7 +5,7 @@ This project focuses on building a data pipeline to extract daily KTM ridership 
 ## Project Objectives
 
 - Extract daily KTM ridership data from data.gov.my.
-- Validate the extract to check null values, column requirement and duplicate.
+- Validate the extracted data to check for null values, column requirement and duplicate.
 - Filter passenger journeys that either begin or end at Kepong Sentral station.
 - Transform and process the ridership data.
 - Store the processed data in CSV files and an SQLite database.
