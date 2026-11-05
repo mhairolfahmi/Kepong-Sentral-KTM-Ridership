@@ -51100,6 +51100,659 @@ date,time,origin,destination,ridership,service
 2026-10-31,22:00,KL Sentral,Kepong Sentral,3,komuter
 2026-10-31,22:00,Kuala Lumpur,Kepong Sentral,2,komuter
 2026-10-31,23:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-01,06:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-01,06:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-01,06:00,Kepong Sentral,Rawang,3,komuter
+2026-11-01,06:00,Rawang,Kepong Sentral,3,komuter
+2026-11-01,06:00,Serendah,Kepong Sentral,1,komuter
+2026-11-01,06:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-01,07:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-01,07:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-01,07:00,Kepong Sentral,KL Sentral,3,komuter
+2026-11-01,07:00,Kepong Sentral,Kepong,2,komuter
+2026-11-01,07:00,Kepong Sentral,Rawang,1,komuter
+2026-11-01,07:00,Rawang,Kepong Sentral,1,komuter
+2026-11-01,07:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-01,08:00,Kepong Sentral,KL Sentral,2,komuter
+2026-11-01,08:00,Kepong Sentral,Kepong,1,komuter
+2026-11-01,08:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-01,08:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-01,08:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-01,09:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-01,09:00,Kepong,Kepong Sentral,1,komuter
+2026-11-01,09:00,Kepong Sentral,KL Sentral,3,komuter
+2026-11-01,09:00,Kepong Sentral,Kepong,1,komuter
+2026-11-01,09:00,Kepong Sentral,Petaling,1,komuter
+2026-11-01,09:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-01,09:00,Kepong Sentral,Tanjong Malim,3,komuter
+2026-11-01,09:00,Rawang,Kepong Sentral,1,komuter
+2026-11-01,09:00,Serendah,Kepong Sentral,1,komuter
+2026-11-01,09:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-01,10:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-01,10:00,Kepong Sentral,Kuala Lumpur,3,komuter
+2026-11-01,10:00,Kepong Sentral,Putra,1,komuter
+2026-11-01,10:00,Kepong Sentral,Rawang,1,komuter
+2026-11-01,10:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-01,10:00,Rawang,Kepong Sentral,1,komuter
+2026-11-01,11:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-01,11:00,KL Sentral,Kepong Sentral,3,komuter
+2026-11-01,11:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-01,11:00,Kepong Sentral,Kuala Lumpur,2,komuter
+2026-11-01,11:00,Kepong Sentral,Kuang,1,komuter
+2026-11-01,11:00,Kepong Sentral,Rawang,1,komuter
+2026-11-01,11:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-01,11:00,Rawang,Kepong Sentral,1,komuter
+2026-11-01,11:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-01,12:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-01,12:00,Kepong Sentral,Bandar Tasek Selatan,1,komuter
+2026-11-01,12:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-01,12:00,Kepong Sentral,Rawang,2,komuter
+2026-11-01,12:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-01,12:00,Tanjong Malim,Kepong Sentral,3,komuter
+2026-11-01,13:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-01,13:00,Kepong Sentral,KL Sentral,3,komuter
+2026-11-01,13:00,Kepong Sentral,Rawang,2,komuter
+2026-11-01,13:00,Kepong Sentral,Segambut,1,komuter
+2026-11-01,13:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-01,13:00,Rawang,Kepong Sentral,2,komuter
+2026-11-01,14:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-01,14:00,Kepong Sentral,KL Sentral,2,komuter
+2026-11-01,14:00,Kepong Sentral,Putra,1,komuter
+2026-11-01,14:00,Rawang,Kepong Sentral,4,komuter
+2026-11-01,14:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-01,14:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-01,15:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-01,15:00,Kepong Sentral,Batang Kali,13,komuter
+2026-11-01,15:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-01,15:00,Kepong Sentral,Rawang,1,komuter
+2026-11-01,15:00,Serendah,Kepong Sentral,1,komuter
+2026-11-01,16:00,Kepong Sentral,Rawang,1,komuter
+2026-11-01,16:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-01,16:00,Kuala Lumpur,Kepong Sentral,4,komuter
+2026-11-01,16:00,Rawang,Kepong Sentral,5,komuter
+2026-11-01,16:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-01,16:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-01,17:00,Bank Negara,Kepong Sentral,1,komuter
+2026-11-01,17:00,KL Sentral,Kepong Sentral,4,komuter
+2026-11-01,17:00,Kepong,Kepong Sentral,2,komuter
+2026-11-01,17:00,Kepong Sentral,KL Sentral,3,komuter
+2026-11-01,17:00,Kepong Sentral,Kepong,1,komuter
+2026-11-01,17:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-01,17:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-01,17:00,Kepong Sentral,Tanjong Malim,3,komuter
+2026-11-01,17:00,Rawang,Kepong Sentral,1,komuter
+2026-11-01,17:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-01,17:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-01,18:00,Batang Kali,Kepong Sentral,2,komuter
+2026-11-01,18:00,Batu Caves,Kepong Sentral,2,komuter
+2026-11-01,18:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-01,18:00,Kepong Sentral,Petaling,1,komuter
+2026-11-01,18:00,Kepong Sentral,Rawang,2,komuter
+2026-11-01,18:00,Putra,Kepong Sentral,1,komuter
+2026-11-01,18:00,Rawang,Kepong Sentral,1,komuter
+2026-11-01,18:00,Serendah,Kepong Sentral,2,komuter
+2026-11-01,18:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-01,19:00,Batang Kali,Kepong Sentral,7,komuter
+2026-11-01,19:00,KL Sentral,Kepong Sentral,5,komuter
+2026-11-01,19:00,Kampung Batu,Kepong Sentral,1,komuter
+2026-11-01,19:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-01,19:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-01,19:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-01,19:00,Kepong Sentral,Kuang,1,komuter
+2026-11-01,19:00,Kepong Sentral,Rawang,2,komuter
+2026-11-01,19:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-01,19:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-01,19:00,Kepong Sentral,Telok Gadong,2,komuter
+2026-11-01,19:00,Putra,Kepong Sentral,1,komuter
+2026-11-01,19:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-01,20:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-01,20:00,Kepong Sentral,Rawang,2,komuter
+2026-11-01,20:00,Kepong Sentral,Serendah,1,komuter
+2026-11-01,20:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-01,21:00,Bandar Tasek Selatan,Kepong Sentral,1,komuter
+2026-11-01,21:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-01,21:00,KL Sentral,Kepong Sentral,3,komuter
+2026-11-01,21:00,Kepong Sentral,Segambut,2,komuter
+2026-11-01,21:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-01,21:00,Rawang,Kepong Sentral,1,komuter
+2026-11-01,21:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-01,22:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-01,22:00,Kepong Sentral,Shah Alam,3,komuter
+2026-11-01,23:00,Kepong Sentral,Kuang,2,komuter
+2026-11-02,05:00,Batang Kali,Kepong Sentral,2,komuter
+2026-11-02,05:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-02,05:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,05:00,Seremban,Kepong Sentral,1,komuter
+2026-11-02,06:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-02,06:00,Kepong Sentral,Bank Negara,2,komuter
+2026-11-02,06:00,Kepong Sentral,KL Sentral,7,komuter
+2026-11-02,06:00,Kepong Sentral,Penalty,1,komuter
+2026-11-02,06:00,Kepong Sentral,Segambut,1,komuter
+2026-11-02,06:00,Kepong Sentral,Tanjong Malim,3,komuter
+2026-11-02,06:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,06:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-02,06:00,Tanjong Malim,Kepong Sentral,3,komuter
+2026-11-02,07:00,Batang Kali,Kepong Sentral,3,komuter
+2026-11-02,07:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-02,07:00,Kepong Sentral,Bank Negara,3,komuter
+2026-11-02,07:00,Kepong Sentral,KL Sentral,39,komuter
+2026-11-02,07:00,Kepong Sentral,Kepong,3,komuter
+2026-11-02,07:00,Kepong Sentral,Kuala Lumpur,5,komuter
+2026-11-02,07:00,Kepong Sentral,Midvalley,1,komuter
+2026-11-02,07:00,Kepong Sentral,Putra,2,komuter
+2026-11-02,07:00,Kepong Sentral,Segambut,1,komuter
+2026-11-02,07:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-02,07:00,Kepong Sentral,Setia Jaya,1,komuter
+2026-11-02,07:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-02,07:00,Kuang,Kepong Sentral,1,komuter
+2026-11-02,07:00,Rasa,Kepong Sentral,1,komuter
+2026-11-02,07:00,Rawang,Kepong Sentral,3,komuter
+2026-11-02,07:00,Segambut,Kepong Sentral,2,komuter
+2026-11-02,07:00,Segambut Utara,Kepong Sentral,4,komuter
+2026-11-02,07:00,Serendah,Kepong Sentral,1,komuter
+2026-11-02,07:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,08:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-02,08:00,Kampung Dato Harun,Kepong Sentral,1,komuter
+2026-11-02,08:00,Kepong,Kepong Sentral,1,komuter
+2026-11-02,08:00,Kepong Sentral,Abdullah Hukum,1,komuter
+2026-11-02,08:00,Kepong Sentral,Bank Negara,5,komuter
+2026-11-02,08:00,Kepong Sentral,KL Sentral,42,komuter
+2026-11-02,08:00,Kepong Sentral,Kepong,2,komuter
+2026-11-02,08:00,Kepong Sentral,Kuala Lumpur,8,komuter
+2026-11-02,08:00,Kepong Sentral,Midvalley,4,komuter
+2026-11-02,08:00,Kepong Sentral,Rawang,1,komuter
+2026-11-02,08:00,Kepong Sentral,Segambut,2,komuter
+2026-11-02,08:00,Kepong Sentral,Segambut Utara,2,komuter
+2026-11-02,08:00,Kepong Sentral,Serendah,1,komuter
+2026-11-02,08:00,Kepong Sentral,Subang Jaya,1,komuter
+2026-11-02,08:00,Kepong Sentral,Tanjong Malim,3,komuter
+2026-11-02,08:00,Kuala Kubu Bharu,Kepong Sentral,3,komuter
+2026-11-02,08:00,Kuang,Kepong Sentral,2,komuter
+2026-11-02,08:00,Rasa,Kepong Sentral,1,komuter
+2026-11-02,08:00,Rawang,Kepong Sentral,4,komuter
+2026-11-02,08:00,Segambut Utara,Kepong Sentral,2,komuter
+2026-11-02,08:00,Serendah,Kepong Sentral,3,komuter
+2026-11-02,08:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-02,08:00,Shah Alam,Kepong Sentral,1,komuter
+2026-11-02,08:00,Tanjong Malim,Kepong Sentral,5,komuter
+2026-11-02,09:00,Kepong Sentral,Abdullah Hukum,15,komuter
+2026-11-02,09:00,Kepong Sentral,KL Sentral,11,komuter
+2026-11-02,09:00,Kepong Sentral,Rawang,1,komuter
+2026-11-02,09:00,Kepong Sentral,Setia Jaya,1,komuter
+2026-11-02,09:00,Kepong Sentral,Sungai Buloh,1,komuter
+2026-11-02,09:00,Kepong Sentral,Tanjong Malim,2,komuter
+2026-11-02,09:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-02,09:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-02,10:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-02,10:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,10:00,Kepong Sentral,Pelabuhan Klang Selatan,1,komuter
+2026-11-02,10:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-02,10:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,10:00,Serendah,Kepong Sentral,1,komuter
+2026-11-02,11:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-02,11:00,Batu Tiga,Kepong Sentral,1,komuter
+2026-11-02,11:00,KL Sentral,Kepong Sentral,3,komuter
+2026-11-02,11:00,Kepong,Kepong Sentral,1,komuter
+2026-11-02,11:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-02,11:00,Kepong Sentral,KL Sentral,4,komuter
+2026-11-02,11:00,Kepong Sentral,Kepong,1,komuter
+2026-11-02,11:00,Kepong Sentral,Kepong Sentral,1,komuter
+2026-11-02,11:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-02,11:00,Kepong Sentral,Kuang,1,komuter
+2026-11-02,11:00,Kepong Sentral,Midvalley,1,komuter
+2026-11-02,11:00,Kepong Sentral,Putra,1,komuter
+2026-11-02,11:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-02,11:00,Kuala Lumpur,Kepong Sentral,2,komuter
+2026-11-02,11:00,Putra,Kepong Sentral,1,komuter
+2026-11-02,11:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,11:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,12:00,Bank Negara,Kepong Sentral,1,komuter
+2026-11-02,12:00,KL Sentral,Kepong Sentral,3,komuter
+2026-11-02,12:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,12:00,Kepong Sentral,Tanjong Malim,4,komuter
+2026-11-02,12:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-02,13:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-02,13:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,13:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-02,13:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-02,14:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-02,14:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,14:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-02,14:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,14:00,Serendah,Kepong Sentral,2,komuter
+2026-11-02,14:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-02,15:00,KL Sentral,Kepong Sentral,7,komuter
+2026-11-02,15:00,Kepong Sentral,Bank Negara,2,komuter
+2026-11-02,15:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,15:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-02,15:00,Kepong Sentral,Kuang,1,komuter
+2026-11-02,15:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-02,15:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,16:00,KL Sentral,Kepong Sentral,4,komuter
+2026-11-02,16:00,Kepong,Kepong Sentral,1,komuter
+2026-11-02,16:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-02,16:00,Kepong Sentral,Tanjong Malim,3,komuter
+2026-11-02,16:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-02,16:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-02,16:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,17:00,Bank Negara,Kepong Sentral,2,komuter
+2026-11-02,17:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-02,17:00,KL Sentral,Kepong Sentral,20,komuter
+2026-11-02,17:00,Kepong,Kepong Sentral,1,komuter
+2026-11-02,17:00,Kepong Sentral,KL Sentral,3,komuter
+2026-11-02,17:00,Kepong Sentral,Kepong,1,komuter
+2026-11-02,17:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-02,17:00,Kepong Sentral,Rasa,4,komuter
+2026-11-02,17:00,Kepong Sentral,Rawang,1,komuter
+2026-11-02,17:00,Kepong Sentral,Tanjong Malim,2,komuter
+2026-11-02,17:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-02,17:00,Putra,Kepong Sentral,1,komuter
+2026-11-02,17:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,17:00,Segambut,Kepong Sentral,1,komuter
+2026-11-02,17:00,Segambut Utara,Kepong Sentral,2,komuter
+2026-11-02,17:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,18:00,Bank Negara,Kepong Sentral,3,komuter
+2026-11-02,18:00,KL Sentral,Kepong Sentral,32,komuter
+2026-11-02,18:00,Kepong,Kepong Sentral,1,komuter
+2026-11-02,18:00,Kepong Sentral,Batang Kali,2,komuter
+2026-11-02,18:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,18:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-02,18:00,Kepong Sentral,Kuang,5,komuter
+2026-11-02,18:00,Kepong Sentral,Rasa,3,komuter
+2026-11-02,18:00,Kepong Sentral,Rawang,9,komuter
+2026-11-02,18:00,Kepong Sentral,Segambut Utara,4,komuter
+2026-11-02,18:00,Kepong Sentral,Serendah,3,komuter
+2026-11-02,18:00,Kepong Sentral,Setia Jaya,1,komuter
+2026-11-02,18:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-02,18:00,Kuala Lumpur,Kepong Sentral,3,komuter
+2026-11-02,18:00,Midvalley,Kepong Sentral,4,komuter
+2026-11-02,18:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,18:00,Segambut,Kepong Sentral,1,komuter
+2026-11-02,18:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,19:00,Abdullah Hukum,Kepong Sentral,1,komuter
+2026-11-02,19:00,KL Sentral,Kepong Sentral,48,komuter
+2026-11-02,19:00,Kepong,Kepong Sentral,2,komuter
+2026-11-02,19:00,Kepong Sentral,Batang Kali,2,komuter
+2026-11-02,19:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,19:00,Kepong Sentral,Kepong,1,komuter
+2026-11-02,19:00,Kepong Sentral,Kuala Kubu Bharu,3,komuter
+2026-11-02,19:00,Kepong Sentral,Kuang,2,komuter
+2026-11-02,19:00,Kepong Sentral,Rasa,1,komuter
+2026-11-02,19:00,Kepong Sentral,Rawang,19,komuter
+2026-11-02,19:00,Kepong Sentral,Segambut,1,komuter
+2026-11-02,19:00,Kepong Sentral,Segambut Utara,2,komuter
+2026-11-02,19:00,Kepong Sentral,Serendah,6,komuter
+2026-11-02,19:00,Kepong Sentral,Shah Alam,1,komuter
+2026-11-02,19:00,Kepong Sentral,Tanjong Malim,4,komuter
+2026-11-02,19:00,Kuala Lumpur,Kepong Sentral,2,komuter
+2026-11-02,19:00,Rawang,Kepong Sentral,1,komuter
+2026-11-02,20:00,Abdullah Hukum,Kepong Sentral,1,komuter
+2026-11-02,20:00,KL Sentral,Kepong Sentral,9,komuter
+2026-11-02,20:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-02,20:00,Kepong Sentral,Klang,1,komuter
+2026-11-02,20:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-02,20:00,Kepong Sentral,Kuang,1,komuter
+2026-11-02,20:00,Kepong Sentral,Rawang,3,komuter
+2026-11-02,20:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-02,20:00,Kepong Sentral,Serendah,2,komuter
+2026-11-02,20:00,Kepong Sentral,Tanjong Malim,4,komuter
+2026-11-02,20:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,21:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-02,21:00,Kepong Sentral,Rawang,1,komuter
+2026-11-02,21:00,Kepong Sentral,Serendah,1,komuter
+2026-11-02,21:00,Kepong Sentral,Setia Jaya,2,komuter
+2026-11-02,21:00,Kepong Sentral,Sungai Buloh,1,komuter
+2026-11-02,21:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-02,21:00,Rawang,Kepong Sentral,2,komuter
+2026-11-02,21:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-02,22:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-02,22:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-02,22:00,Kuala Lumpur,Kepong Sentral,2,komuter
+2026-11-02,23:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-03,06:00,Abdullah Hukum,Kepong Sentral,1,komuter
+2026-11-03,06:00,Bank Negara,Kepong Sentral,2,komuter
+2026-11-03,06:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-03,06:00,KL Sentral,Kepong Sentral,8,komuter
+2026-11-03,06:00,Kepong Sentral,Bandar Tasek Selatan,1,komuter
+2026-11-03,06:00,Kepong Sentral,Bank Negara,3,komuter
+2026-11-03,06:00,Kepong Sentral,KL Sentral,16,komuter
+2026-11-03,06:00,Kepong Sentral,Kuang,1,komuter
+2026-11-03,06:00,Kepong Sentral,Segambut,1,komuter
+2026-11-03,06:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-03,06:00,Kepong Sentral,Serendah,1,komuter
+2026-11-03,06:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-03,06:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-03,06:00,Kuang,Kepong Sentral,1,komuter
+2026-11-03,06:00,Rawang,Kepong Sentral,5,komuter
+2026-11-03,06:00,Segambut Utara,Kepong Sentral,2,komuter
+2026-11-03,07:00,Batang Kali,Kepong Sentral,2,komuter
+2026-11-03,07:00,Kepong,Kepong Sentral,1,komuter
+2026-11-03,07:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-03,07:00,Kepong Sentral,KL Sentral,42,komuter
+2026-11-03,07:00,Kepong Sentral,Kepong,3,komuter
+2026-11-03,07:00,Kepong Sentral,Kuala Lumpur,5,komuter
+2026-11-03,07:00,Kepong Sentral,Midvalley,1,komuter
+2026-11-03,07:00,Kepong Sentral,Putra,1,komuter
+2026-11-03,07:00,Kepong Sentral,Segambut,1,komuter
+2026-11-03,07:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-03,07:00,Kepong Sentral,Setia Jaya,1,komuter
+2026-11-03,07:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-03,07:00,Rasa,Kepong Sentral,1,komuter
+2026-11-03,07:00,Rawang,Kepong Sentral,3,komuter
+2026-11-03,07:00,Segambut Utara,Kepong Sentral,4,komuter
+2026-11-03,07:00,Serendah,Kepong Sentral,1,komuter
+2026-11-03,07:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-03,08:00,Batang Kali,Kepong Sentral,2,komuter
+2026-11-03,08:00,Kepong,Kepong Sentral,1,komuter
+2026-11-03,08:00,Kepong Sentral,Bank Negara,6,komuter
+2026-11-03,08:00,Kepong Sentral,Batang Kali,2,komuter
+2026-11-03,08:00,Kepong Sentral,KL Sentral,43,komuter
+2026-11-03,08:00,Kepong Sentral,Kepong,4,komuter
+2026-11-03,08:00,Kepong Sentral,Kuala Lumpur,7,komuter
+2026-11-03,08:00,Kepong Sentral,Midvalley,4,komuter
+2026-11-03,08:00,Kepong Sentral,Putra,1,komuter
+2026-11-03,08:00,Kepong Sentral,Rawang,1,komuter
+2026-11-03,08:00,Kepong Sentral,Segambut,2,komuter
+2026-11-03,08:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-03,08:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-03,08:00,Kuala Kubu Bharu,Kepong Sentral,2,komuter
+2026-11-03,08:00,Kuang,Kepong Sentral,2,komuter
+2026-11-03,08:00,Rasa,Kepong Sentral,1,komuter
+2026-11-03,08:00,Rawang,Kepong Sentral,1,komuter
+2026-11-03,08:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-03,08:00,Serendah,Kepong Sentral,4,komuter
+2026-11-03,08:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-03,08:00,Tanjong Malim,Kepong Sentral,5,komuter
+2026-11-03,09:00,Kepong Sentral,Abdullah Hukum,18,komuter
+2026-11-03,09:00,Kepong Sentral,KL Sentral,12,komuter
+2026-11-03,09:00,Kepong Sentral,Kepong,1,komuter
+2026-11-03,09:00,Kepong Sentral,Kuala Lumpur,2,komuter
+2026-11-03,09:00,Kepong Sentral,Rawang,2,komuter
+2026-11-03,09:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-03,09:00,Rawang,Kepong Sentral,1,komuter
+2026-11-03,09:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-03,09:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-03,09:00,Shah Alam,Kepong Sentral,1,komuter
+2026-11-03,09:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-03,10:00,Kepong Sentral,KL Sentral,2,komuter
+2026-11-03,10:00,Kepong Sentral,Kepong,1,komuter
+2026-11-03,10:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-03,10:00,Kepong Sentral,Tanjong Malim,2,komuter
+2026-11-03,10:00,Klang,Kepong Sentral,1,komuter
+2026-11-03,11:00,Bank Negara,Kepong Sentral,1,komuter
+2026-11-03,11:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-03,11:00,KL Sentral,Kepong Sentral,13,komuter
+2026-11-03,11:00,Kepong Sentral,Bank Negara,2,komuter
+2026-11-03,11:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-03,11:00,Kepong Sentral,KL Sentral,8,komuter
+2026-11-03,11:00,Kepong Sentral,Kuang,2,komuter
+2026-11-03,11:00,Kepong Sentral,Rawang,1,komuter
+2026-11-03,11:00,Kepong Sentral,Segambut Utara,2,komuter
+2026-11-03,11:00,Putra,Kepong Sentral,1,komuter
+2026-11-03,11:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-03,11:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-03,12:00,Kepong Sentral,Rawang,1,komuter
+2026-11-03,12:00,Kepong Sentral,Tanjong Malim,2,komuter
+2026-11-03,12:00,Rasa,Kepong Sentral,1,komuter
+2026-11-03,13:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-03,13:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-03,13:00,Kepong Sentral,KL Sentral,6,komuter
+2026-11-03,13:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-03,13:00,Kepong Sentral,Rawang,1,komuter
+2026-11-03,13:00,Putra,Kepong Sentral,1,komuter
+2026-11-03,14:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-03,14:00,Kepong,Kepong Sentral,1,komuter
+2026-11-03,14:00,Kepong Sentral,KL Sentral,3,komuter
+2026-11-03,14:00,Kepong Sentral,Kuang,1,komuter
+2026-11-03,14:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-03,14:00,Kepong Sentral,Tanjong Malim,2,komuter
+2026-11-03,14:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-03,14:00,Serendah,Kepong Sentral,1,komuter
+2026-11-03,14:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-03,15:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-03,15:00,Kepong Sentral,Rawang,1,komuter
+2026-11-03,15:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-03,15:00,Kepong Sentral,Serendah,1,komuter
+2026-11-03,16:00,KL Sentral,Kepong Sentral,4,komuter
+2026-11-03,16:00,Kepong Sentral,Kepong,1,komuter
+2026-11-03,16:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-03,16:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-03,16:00,Putra,Kepong Sentral,2,komuter
+2026-11-03,16:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-03,17:00,Bank Negara,Kepong Sentral,2,komuter
+2026-11-03,17:00,KL Sentral,Kepong Sentral,26,komuter
+2026-11-03,17:00,Kepong,Kepong Sentral,3,komuter
+2026-11-03,17:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-03,17:00,Kepong Sentral,Klang,1,komuter
+2026-11-03,17:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-03,17:00,Kepong Sentral,Rawang,4,komuter
+2026-11-03,17:00,Kepong Sentral,Sungai Buloh,1,komuter
+2026-11-03,17:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-03,17:00,Rawang,Kepong Sentral,1,komuter
+2026-11-03,17:00,Segambut,Kepong Sentral,1,komuter
+2026-11-03,17:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-03,17:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-03,18:00,Bank Negara,Kepong Sentral,4,komuter
+2026-11-03,18:00,KL Sentral,Kepong Sentral,34,komuter
+2026-11-03,18:00,Kepong,Kepong Sentral,1,komuter
+2026-11-03,18:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-03,18:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-03,18:00,Kepong Sentral,Kepong,1,komuter
+2026-11-03,18:00,Kepong Sentral,Kuala Kubu Bharu,2,komuter
+2026-11-03,18:00,Kepong Sentral,Kuang,5,komuter
+2026-11-03,18:00,Kepong Sentral,Rasa,2,komuter
+2026-11-03,18:00,Kepong Sentral,Rawang,14,komuter
+2026-11-03,18:00,Kepong Sentral,Segambut,1,komuter
+2026-11-03,18:00,Kepong Sentral,Segambut Utara,5,komuter
+2026-11-03,18:00,Kepong Sentral,Serendah,3,komuter
+2026-11-03,18:00,Kepong Sentral,Setia Jaya,1,komuter
+2026-11-03,18:00,Kuala Lumpur,Kepong Sentral,2,komuter
+2026-11-03,18:00,Midvalley,Kepong Sentral,1,komuter
+2026-11-03,18:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-03,18:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-03,19:00,Bank Negara,Kepong Sentral,1,komuter
+2026-11-03,19:00,KL Sentral,Kepong Sentral,44,komuter
+2026-11-03,19:00,Kepong,Kepong Sentral,1,komuter
+2026-11-03,19:00,Kepong Sentral,Batang Kali,2,komuter
+2026-11-03,19:00,Kepong Sentral,Jalan Kastam,1,komuter
+2026-11-03,19:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-03,19:00,Kepong Sentral,Kuang,2,komuter
+2026-11-03,19:00,Kepong Sentral,Midvalley,1,komuter
+2026-11-03,19:00,Kepong Sentral,Rasa,1,komuter
+2026-11-03,19:00,Kepong Sentral,Rawang,10,komuter
+2026-11-03,19:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-03,19:00,Kepong Sentral,Serendah,7,komuter
+2026-11-03,19:00,Kepong Sentral,Shah Alam,1,komuter
+2026-11-03,19:00,Kepong Sentral,Tanjong Malim,4,komuter
+2026-11-03,19:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-03,19:00,Midvalley,Kepong Sentral,1,komuter
+2026-11-03,19:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-03,20:00,Abdullah Hukum,Kepong Sentral,6,komuter
+2026-11-03,20:00,Bank Negara,Kepong Sentral,1,komuter
+2026-11-03,20:00,KL Sentral,Kepong Sentral,10,komuter
+2026-11-03,20:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-03,20:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-03,20:00,Kepong Sentral,Rawang,1,komuter
+2026-11-03,20:00,Kepong Sentral,Serendah,2,komuter
+2026-11-03,20:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-03,20:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-03,20:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-03,21:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-03,21:00,KL Sentral,Kepong Sentral,4,komuter
+2026-11-03,21:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-03,21:00,Kepong Sentral,Rawang,4,komuter
+2026-11-03,21:00,Kepong Sentral,Serendah,1,komuter
+2026-11-03,21:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-03,21:00,Rawang,Kepong Sentral,2,komuter
+2026-11-03,22:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-03,22:00,Kepong Sentral,Kuala Kubu Bharu,5,komuter
+2026-11-03,22:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-03,22:00,Kuala Lumpur,Kepong Sentral,3,komuter
+2026-11-03,23:00,Kepong Sentral,Rawang,1,komuter
+2026-11-03,23:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-04,05:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-04,06:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-04,06:00,Kepong Sentral,KL Sentral,9,komuter
+2026-11-04,06:00,Kuang,Kepong Sentral,1,komuter
+2026-11-04,06:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,06:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-04,07:00,Batang Kali,Kepong Sentral,3,komuter
+2026-11-04,07:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-04,07:00,Kepong,Kepong Sentral,1,komuter
+2026-11-04,07:00,Kepong Sentral,Bank Negara,2,komuter
+2026-11-04,07:00,Kepong Sentral,KL Sentral,45,komuter
+2026-11-04,07:00,Kepong Sentral,Kepong,3,komuter
+2026-11-04,07:00,Kepong Sentral,Kuala Lumpur,5,komuter
+2026-11-04,07:00,Kepong Sentral,Putra,1,komuter
+2026-11-04,07:00,Kepong Sentral,Segambut,1,komuter
+2026-11-04,07:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-04,07:00,Kuala Kubu Bharu,Kepong Sentral,2,komuter
+2026-11-04,07:00,Kuang,Kepong Sentral,1,komuter
+2026-11-04,07:00,Rasa,Kepong Sentral,1,komuter
+2026-11-04,07:00,Rawang,Kepong Sentral,5,komuter
+2026-11-04,07:00,Segambut,Kepong Sentral,2,komuter
+2026-11-04,07:00,Segambut Utara,Kepong Sentral,2,komuter
+2026-11-04,07:00,Serendah,Kepong Sentral,1,komuter
+2026-11-04,07:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-04,08:00,Batang Kali,Kepong Sentral,1,komuter
+2026-11-04,08:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-04,08:00,Kepong Sentral,Abdullah Hukum,1,komuter
+2026-11-04,08:00,Kepong Sentral,Bank Negara,6,komuter
+2026-11-04,08:00,Kepong Sentral,KL Sentral,49,komuter
+2026-11-04,08:00,Kepong Sentral,Kepong,3,komuter
+2026-11-04,08:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-04,08:00,Kepong Sentral,Kuala Lumpur,9,komuter
+2026-11-04,08:00,Kepong Sentral,Midvalley,4,komuter
+2026-11-04,08:00,Kepong Sentral,Putra,1,komuter
+2026-11-04,08:00,Kepong Sentral,Rawang,1,komuter
+2026-11-04,08:00,Kepong Sentral,Segambut,2,komuter
+2026-11-04,08:00,Kepong Sentral,Segambut Utara,2,komuter
+2026-11-04,08:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-04,08:00,Kuala Kubu Bharu,Kepong Sentral,2,komuter
+2026-11-04,08:00,Kuang,Kepong Sentral,2,komuter
+2026-11-04,08:00,Rasa,Kepong Sentral,2,komuter
+2026-11-04,08:00,Rawang,Kepong Sentral,5,komuter
+2026-11-04,08:00,Serendah,Kepong Sentral,4,komuter
+2026-11-04,08:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-04,08:00,Shah Alam,Kepong Sentral,1,komuter
+2026-11-04,08:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-04,09:00,Kepong,Kepong Sentral,1,komuter
+2026-11-04,09:00,Kepong Sentral,Abdullah Hukum,11,komuter
+2026-11-04,09:00,Kepong Sentral,KL Sentral,11,komuter
+2026-11-04,09:00,Kepong Sentral,Kepong,1,komuter
+2026-11-04,09:00,Kepong Sentral,Rawang,2,komuter
+2026-11-04,09:00,Kepong Sentral,Setia Jaya,1,komuter
+2026-11-04,09:00,Kepong Sentral,Subang Jaya,1,komuter
+2026-11-04,09:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-04,09:00,Rasa,Kepong Sentral,1,komuter
+2026-11-04,09:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-04,09:00,Setia Jaya,Kepong Sentral,1,komuter
+2026-11-04,09:00,Tanjong Malim,Kepong Sentral,5,komuter
+2026-11-04,10:00,KL Sentral,Kepong Sentral,4,komuter
+2026-11-04,10:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-04,10:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-04,10:00,Rawang,Kepong Sentral,4,komuter
+2026-11-04,10:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-04,10:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-04,11:00,Kepong Sentral,KL Sentral,5,komuter
+2026-11-04,11:00,Kepong Sentral,Putra,1,komuter
+2026-11-04,11:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,12:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-04,12:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-04,12:00,Kepong Sentral,Tanjong Malim,3,komuter
+2026-11-04,13:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-04,13:00,Kepong,Kepong Sentral,1,komuter
+2026-11-04,13:00,Kepong Sentral,KL Sentral,2,komuter
+2026-11-04,13:00,Kepong Sentral,Serendah,1,komuter
+2026-11-04,13:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-04,13:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-04,14:00,KL Sentral,Kepong Sentral,2,komuter
+2026-11-04,14:00,Kepong Sentral,KL Sentral,2,komuter
+2026-11-04,14:00,Kepong Sentral,Kepong,1,komuter
+2026-11-04,14:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-04,14:00,Kepong Sentral,Sungai Buloh,1,komuter
+2026-11-04,14:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,15:00,KL Sentral,Kepong Sentral,3,komuter
+2026-11-04,15:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-04,15:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-04,15:00,Kepong Sentral,Rawang,2,komuter
+2026-11-04,15:00,Kepong Sentral,Tanjong Malim,1,komuter
+2026-11-04,16:00,KL Sentral,Kepong Sentral,6,komuter
+2026-11-04,16:00,Kepong Sentral,Kuala Lumpur,1,komuter
+2026-11-04,16:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-04,16:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,16:00,Segambut Utara,Kepong Sentral,1,komuter
+2026-11-04,17:00,Bank Negara,Kepong Sentral,3,komuter
+2026-11-04,17:00,KL Sentral,Kepong Sentral,26,komuter
+2026-11-04,17:00,Kepong,Kepong Sentral,4,komuter
+2026-11-04,17:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-04,17:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
+2026-11-04,17:00,Kepong Sentral,Kuala Lumpur,2,komuter
+2026-11-04,17:00,Kepong Sentral,Rawang,2,komuter
+2026-11-04,17:00,Kepong Sentral,Sungai Buloh,1,komuter
+2026-11-04,17:00,Kepong Sentral,Tanjong Malim,2,komuter
+2026-11-04,17:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-04,17:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,17:00,Segambut,Kepong Sentral,1,komuter
+2026-11-04,17:00,Segambut Utara,Kepong Sentral,2,komuter
+2026-11-04,18:00,Bank Negara,Kepong Sentral,3,komuter
+2026-11-04,18:00,KL Sentral,Kepong Sentral,32,komuter
+2026-11-04,18:00,Kepong,Kepong Sentral,1,komuter
+2026-11-04,18:00,Kepong Sentral,Bank Negara,1,komuter
+2026-11-04,18:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-04,18:00,Kepong Sentral,Kuala Kubu Bharu,2,komuter
+2026-11-04,18:00,Kepong Sentral,Kuang,6,komuter
+2026-11-04,18:00,Kepong Sentral,Rasa,3,komuter
+2026-11-04,18:00,Kepong Sentral,Rawang,5,komuter
+2026-11-04,18:00,Kepong Sentral,Segambut,1,komuter
+2026-11-04,18:00,Kepong Sentral,Segambut Utara,3,komuter
+2026-11-04,18:00,Kepong Sentral,Serendah,3,komuter
+2026-11-04,18:00,Kuala Lumpur,Kepong Sentral,2,komuter
+2026-11-04,18:00,Midvalley,Kepong Sentral,2,komuter
+2026-11-04,18:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,18:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-04,19:00,Abdullah Hukum,Kepong Sentral,1,komuter
+2026-11-04,19:00,KL Sentral,Kepong Sentral,40,komuter
+2026-11-04,19:00,Kepong,Kepong Sentral,1,komuter
+2026-11-04,19:00,Kepong Sentral,Batang Kali,7,komuter
+2026-11-04,19:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-04,19:00,Kepong Sentral,Kuala Kubu Bharu,3,komuter
+2026-11-04,19:00,Kepong Sentral,Kuang,3,komuter
+2026-11-04,19:00,Kepong Sentral,Rasa,2,komuter
+2026-11-04,19:00,Kepong Sentral,Rawang,20,komuter
+2026-11-04,19:00,Kepong Sentral,Serendah,6,komuter
+2026-11-04,19:00,Kepong Sentral,Seri Setia,1,komuter
+2026-11-04,19:00,Kepong Sentral,Setia Jaya,1,komuter
+2026-11-04,19:00,Kepong Sentral,Shah Alam,1,komuter
+2026-11-04,19:00,Kepong Sentral,Tanjong Malim,6,komuter
+2026-11-04,19:00,Midvalley,Kepong Sentral,1,komuter
+2026-11-04,19:00,Putra,Kepong Sentral,1,komuter
+2026-11-04,19:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,19:00,Tanjong Malim,Kepong Sentral,1,komuter
+2026-11-04,20:00,Abdullah Hukum,Kepong Sentral,3,komuter
+2026-11-04,20:00,KL Sentral,Kepong Sentral,7,komuter
+2026-11-04,20:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-04,20:00,Kepong Sentral,KL Sentral,1,komuter
+2026-11-04,20:00,Kepong Sentral,Rawang,4,komuter
+2026-11-04,20:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-04,20:00,Kepong Sentral,Tanjong Malim,2,komuter
+2026-11-04,20:00,Kuala Kubu Bharu,Kepong Sentral,1,komuter
+2026-11-04,20:00,Kuala Lumpur,Kepong Sentral,1,komuter
+2026-11-04,20:00,Rawang,Kepong Sentral,1,komuter
+2026-11-04,20:00,Subang Jaya,Kepong Sentral,1,komuter
+2026-11-04,21:00,KL Sentral,Kepong Sentral,6,komuter
+2026-11-04,21:00,Kepong Sentral,Rawang,4,komuter
+2026-11-04,21:00,Kepong Sentral,Segambut Utara,1,komuter
+2026-11-04,21:00,Kepong Sentral,Serendah,2,komuter
+2026-11-04,21:00,Kepong Sentral,Tanjong Malim,3,komuter
+2026-11-04,21:00,Putra,Kepong Sentral,1,komuter
+2026-11-04,21:00,Tanjong Malim,Kepong Sentral,2,komuter
+2026-11-04,22:00,KL Sentral,Kepong Sentral,3,komuter
+2026-11-04,22:00,Kepong Sentral,Batang Kali,1,komuter
+2026-11-04,22:00,Kuala Lumpur,Kepong Sentral,2,komuter
+2026-11-04,22:00,Kuang,Kepong Sentral,1,komuter
+2026-11-04,23:00,KL Sentral,Kepong Sentral,1,komuter
+2026-11-04,23:00,Kepong Sentral,Kuala Kubu Bharu,1,komuter
 2026-01-01,05:00,Batu Gajah,Kepong Sentral,2,ets
 2026-01-01,05:00,Ipoh,Kepong Sentral,3,ets
 2026-01-01,05:00,Kampar,Kepong Sentral,1,ets
@@ -59380,3 +60033,117 @@ date,time,origin,destination,ridership,service
 2026-10-31,22:00,Kepong Sentral,Batu Gajah,2,ets
 2026-10-31,22:00,Kepong Sentral,Ipoh,7,ets
 2026-10-31,22:00,Kepong Sentral,Kampar,1,ets
+2026-11-01,05:00,Batu Gajah,Kepong Sentral,2,ets
+2026-11-01,05:00,Ipoh,Kepong Sentral,6,ets
+2026-11-01,05:00,Kampar,Kepong Sentral,1,ets
+2026-11-01,09:00,Batu Gajah,Kepong Sentral,2,ets
+2026-11-01,09:00,Ipoh,Kepong Sentral,7,ets
+2026-11-01,09:00,Kepong Sentral,Batu Gajah,4,ets
+2026-11-01,09:00,Kepong Sentral,Ipoh,14,ets
+2026-11-01,09:00,Kepong Sentral,Kampar,3,ets
+2026-11-01,09:00,Tapah Road,Kepong Sentral,2,ets
+2026-11-01,12:00,Ipoh,Kepong Sentral,10,ets
+2026-11-01,13:00,Batu Gajah,Kepong Sentral,1,ets
+2026-11-01,13:00,Ipoh,Kepong Sentral,6,ets
+2026-11-01,13:00,Kampar,Kepong Sentral,1,ets
+2026-11-01,14:00,Kepong Sentral,Batu Gajah,1,ets
+2026-11-01,14:00,Kepong Sentral,Ipoh,2,ets
+2026-11-01,14:00,Kepong Sentral,KL Sentral,1,ets
+2026-11-01,14:00,Kepong Sentral,Kampar,4,ets
+2026-11-01,14:00,Kepong Sentral,Slim River,2,ets
+2026-11-01,14:00,Kepong Sentral,Tanjong Malim,2,ets
+2026-11-01,15:00,Kepong Sentral,Batu Gajah,2,ets
+2026-11-01,15:00,Kepong Sentral,Ipoh,10,ets
+2026-11-01,15:00,Kepong Sentral,Kampar,11,ets
+2026-11-01,15:00,Kepong Sentral,Sungkai,1,ets
+2026-11-01,15:00,Kepong Sentral,Tapah Road,2,ets
+2026-11-01,18:00,Batu Gajah,Kepong Sentral,3,ets
+2026-11-01,18:00,Ipoh,Kepong Sentral,6,ets
+2026-11-01,18:00,Tapah Road,Kepong Sentral,1,ets
+2026-11-01,19:00,Batu Gajah,Kepong Sentral,2,ets
+2026-11-01,19:00,Ipoh,Kepong Sentral,19,ets
+2026-11-01,19:00,Kampar,Kepong Sentral,1,ets
+2026-11-01,19:00,Kepong Sentral,Ipoh,5,ets
+2026-11-01,19:00,Kepong Sentral,Kampar,5,ets
+2026-11-01,19:00,Kepong Sentral,Tapah Road,1,ets
+2026-11-01,19:00,Sungkai,Kepong Sentral,3,ets
+2026-11-01,20:00,Sungai Buloh,Kepong Sentral,2,ets
+2026-11-01,21:00,Kepong Sentral,KL Sentral,1,ets
+2026-11-01,22:00,Kepong Sentral,Batu Gajah,1,ets
+2026-11-01,22:00,Kepong Sentral,Ipoh,13,ets
+2026-11-01,22:00,Kepong Sentral,Kampar,4,ets
+2026-11-01,22:00,Kepong Sentral,Tanjong Malim,1,ets
+2026-11-01,22:00,Kepong Sentral,Tapah Road,1,ets
+2026-11-02,05:00,Ipoh,Kepong Sentral,9,ets
+2026-11-02,05:00,Kampar,Kepong Sentral,2,ets
+2026-11-02,09:00,Ipoh,Kepong Sentral,6,ets
+2026-11-02,09:00,Kampar,Kepong Sentral,2,ets
+2026-11-02,09:00,Kepong Sentral,Batu Gajah,2,ets
+2026-11-02,09:00,Kepong Sentral,Ipoh,11,ets
+2026-11-02,09:00,Kepong Sentral,Kampar,2,ets
+2026-11-02,09:00,Kepong Sentral,Slim River,3,ets
+2026-11-02,09:00,Kepong Sentral,Sungkai,1,ets
+2026-11-02,09:00,Sungkai,Kepong Sentral,2,ets
+2026-11-02,12:00,Ipoh,Kepong Sentral,6,ets
+2026-11-02,12:00,Sungkai,Kepong Sentral,1,ets
+2026-11-02,12:00,Tapah Road,Kepong Sentral,1,ets
+2026-11-02,15:00,Kepong Sentral,Batu Gajah,1,ets
+2026-11-02,15:00,Kepong Sentral,Ipoh,10,ets
+2026-11-02,15:00,Kepong Sentral,Kampar,3,ets
+2026-11-02,15:00,Kepong Sentral,Tanjong Malim,1,ets
+2026-11-02,19:00,Batu Gajah,Kepong Sentral,2,ets
+2026-11-02,19:00,Ipoh,Kepong Sentral,5,ets
+2026-11-02,19:00,Kampar,Kepong Sentral,2,ets
+2026-11-02,19:00,Kepong Sentral,Batu Gajah,2,ets
+2026-11-02,19:00,Kepong Sentral,Ipoh,2,ets
+2026-11-02,19:00,Kepong Sentral,Kampar,1,ets
+2026-11-02,19:00,Kepong Sentral,Sungkai,1,ets
+2026-11-02,19:00,Sungkai,Kepong Sentral,1,ets
+2026-11-02,22:00,Kepong Sentral,Ipoh,3,ets
+2026-11-03,05:00,Batu Gajah,Kepong Sentral,3,ets
+2026-11-03,05:00,Ipoh,Kepong Sentral,3,ets
+2026-11-03,05:00,Kampar,Kepong Sentral,2,ets
+2026-11-03,09:00,Batu Gajah,Kepong Sentral,1,ets
+2026-11-03,09:00,Ipoh,Kepong Sentral,13,ets
+2026-11-03,09:00,Kepong Sentral,Ipoh,13,ets
+2026-11-03,09:00,Kepong Sentral,Kampar,1,ets
+2026-11-03,10:00,Slim River,Kepong Sentral,2,ets
+2026-11-03,12:00,Batu Gajah,Kepong Sentral,4,ets
+2026-11-03,12:00,Ipoh,Kepong Sentral,7,ets
+2026-11-03,12:00,Kampar,Kepong Sentral,2,ets
+2026-11-03,15:00,Kepong Sentral,Batu Gajah,5,ets
+2026-11-03,15:00,Kepong Sentral,Ipoh,11,ets
+2026-11-03,15:00,Kepong Sentral,Kampar,2,ets
+2026-11-03,15:00,Kepong Sentral,Sungkai,2,ets
+2026-11-03,19:00,Batu Gajah,Kepong Sentral,1,ets
+2026-11-03,19:00,Ipoh,Kepong Sentral,9,ets
+2026-11-03,19:00,Kampar,Kepong Sentral,2,ets
+2026-11-03,19:00,Kepong Sentral,Batu Gajah,1,ets
+2026-11-03,19:00,Kepong Sentral,Ipoh,15,ets
+2026-11-03,19:00,Kepong Sentral,Kampar,1,ets
+2026-11-03,19:00,Kepong Sentral,Slim River,1,ets
+2026-11-03,19:00,Tapah Road,Kepong Sentral,1,ets
+2026-11-03,22:00,Kepong Sentral,Ipoh,1,ets
+2026-11-04,05:00,Batu Gajah,Kepong Sentral,1,ets
+2026-11-04,05:00,Ipoh,Kepong Sentral,2,ets
+2026-11-04,05:00,Kampar,Kepong Sentral,1,ets
+2026-11-04,07:00,Kepong Sentral,KL Sentral,1,ets
+2026-11-04,09:00,Batu Gajah,Kepong Sentral,3,ets
+2026-11-04,09:00,Ipoh,Kepong Sentral,11,ets
+2026-11-04,09:00,Kampar,Kepong Sentral,4,ets
+2026-11-04,09:00,Kepong Sentral,Batu Gajah,3,ets
+2026-11-04,09:00,Kepong Sentral,Ipoh,8,ets
+2026-11-04,12:00,Batu Gajah,Kepong Sentral,2,ets
+2026-11-04,12:00,Ipoh,Kepong Sentral,4,ets
+2026-11-04,12:00,Kampar,Kepong Sentral,1,ets
+2026-11-04,12:00,Sungkai,Kepong Sentral,2,ets
+2026-11-04,15:00,KL Sentral,Kepong Sentral,1,ets
+2026-11-04,15:00,Kepong Sentral,Batu Gajah,4,ets
+2026-11-04,15:00,Kepong Sentral,Ipoh,4,ets
+2026-11-04,15:00,Kepong Sentral,Kampar,5,ets
+2026-11-04,19:00,Batu Gajah,Kepong Sentral,4,ets
+2026-11-04,19:00,Ipoh,Kepong Sentral,8,ets
+2026-11-04,19:00,Kampar,Kepong Sentral,1,ets
+2026-11-04,19:00,Kepong Sentral,Ipoh,4,ets
+2026-11-04,20:00,Rawang,Kepong Sentral,1,ets
+2026-11-04,22:00,Kepong Sentral,Ipoh,6,ets
