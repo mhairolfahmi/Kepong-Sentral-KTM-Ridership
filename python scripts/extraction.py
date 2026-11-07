@@ -1,3 +1,7 @@
+#============================================================================================================================
+# Using read_file, we can extract CSV data directly from the data.gov.my website.
+# Using quality_check, we can validate the extracted data and identify potential errors before proceeding with data cleaning.
+#============================================================================================================================
 import pandas as pd 
 from urllib.error import HTTPError, URLError
 

@@ -1,3 +1,8 @@
+#============================================================================================================================
+# Using load_to_csv to save as csv file
+# Using load_to_sql to save to sql database
+#============================================================================================================================
+
 import pandas as pd
 from sqlalchemy import create_engine
 import sqlite3
